@@ -5,8 +5,7 @@
  }
 
  body{
-    background-image: url(./images/bg_image.jpg);
-    min-width: 100vh;
+   background-color: light-blue;
 }
 
 header{
